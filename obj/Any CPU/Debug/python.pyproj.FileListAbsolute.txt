@@ -1,0 +1,3 @@
+D:\Practice\python\obj\Any CPU\Debug\python.pyproj.CoreCompileInputs.cache
+D:\Practice\python\bin\Microsoft.PythonTools.WebRole.dll
+D:\Practice\python\bin\wfastcgi.py
